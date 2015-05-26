@@ -1,0 +1,14 @@
+Coder:f153da4a-b78f-4486-82c7-42db0d5ee278
+Coder:faa08c05-22c8-430b-8a6d-cf7186ef4b92
+Coder:f636c1c4-a2c5-4b4d-b43a-5e419eb48bfb
+//Spacer
+Helper:923d005d-24ef-4470-ac13-93b724b33f8a
+Helper:22d76516-ac19-4776-88e4-ce884534ccb4
+Helper:d0db65d9-ea3d-4544-8bbd-b96422a925d8
+//Spacer
+Supporter:93612f55-6859-49be-9754-f52e7cef5164
+//Spacer
+Artist:7f020fe5-7d66-40c3-b35c-a940bf683b8a
+Artist:14135b74-aa5f-4e30-aea1-c955ea484a0d
+//Spacer
+Mascot:2f8062a1-449e-4db4-bafc-61f083079101
