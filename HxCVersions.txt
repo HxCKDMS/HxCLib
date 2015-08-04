@@ -1,6 +1,6 @@
-HxCCore-1.7.10:1.7.0
+HxCCore-1.7.10:1.8.0
 HxCCore-1.8:1.6.0
-HxCEnchants-1.7.10:2.1.3
+HxCEnchants-1.7.10:2.1.4
 HxCEnchants-1.8:2.0.0
 HxCWorldGen-1.7.10:1.3.0
 HxCBlocks-1.7.10:1.5.0
