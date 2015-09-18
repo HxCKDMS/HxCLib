@@ -1,7 +1,7 @@
-HxCCore:1.7.10-1.8.1
+HxCCore:1.7.10-1.8.3
 HxCCore:1.8-1.6.2
 HxCEnchants:1.7.10-2.1.8
 HxCEnchants:1.8-2.0.6
-HxCWorldGen:1.7.10-1.5.2
+HxCWorldGen:1.7.10-1.5.4
 HxCBlocks:1.7.10-1.6.0
 HxCLinkPads:1.7.10-1.4.0
