@@ -24,10 +24,10 @@ HxCEnchants {
 }
 
 HxCWorldGen {
-	Fix oregen make it proper heights.
-	Fix Texture sys.
+	Fix oregen make it proper heights. -done
+	Fix Texture sys. -done
 	Re-do tinker mats.
-	Add Dusts.
+	Add Dusts. -done
 	Add IC2/Thermal/MFR support.
 	Add Recipes to above using my metals.
 	Add option to disable above default recipes.
