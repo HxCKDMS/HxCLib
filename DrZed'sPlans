@@ -11,6 +11,9 @@ HxCCore {
 	Log command uses to seperate file, optional gamerule for telling admins when commands are used.
 	Cleanup code, make sure everything is properly localized.
 	Make optional TFC style inventory crafting grid for clients. crafting table expands grid to 3x3.
+	Add commands supporters can use on any server reguardless of perm level (revokable by config)
+	Add commands Coders can only use (debugging based I.E. /HxC debugCrash)
+	Add commands Helpers can use like (/HxC report BUG) sends message to bot to post bug
 }
 
 HxCEnchants {
