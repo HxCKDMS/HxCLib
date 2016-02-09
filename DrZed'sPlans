@@ -27,13 +27,12 @@ HxCEnchants {
 }
 
 HxCWorldGen {
-	Fix oregen make it proper heights. -done
-	Fix Texture sys. -done
 	Re-do tinker mats.
 	Add Dusts. -done
 	Add IC2/Thermal/MFR support.
 	Add Recipes to above using my metals.
 	Add option to disable above default recipes.
+	Make dynamic blocks for ores and storage blocks.(+1 block per 15 ores/metals)
 	Add TFC support.
 }
 
