@@ -1,0 +1,65 @@
+Naming conventions
+  Minecraft : HxC[modname] example: HxCArcanea [Arcanea] (Magic Energy Rename)
+  All Else Until Specified : Just name as you please.
+  
+Versioning
+  A.B.C.X < Example : 3.2.0a [3rd rewrite.2nd major update.no changes.hotfix 1]
+  A:Major rewrite version
+    - 0 until public release no rewrite required.
+    - Critical Changes that WILL break old saves.
+    - Progression Overhaul
+  B:Major update
+    - Adds 3+ new things
+    - Changes critical functionality of something that may break old saves.
+    - Game breaking bugfixes.
+    - Removal of things
+    - Progression Changes
+  C:Minor update
+    - Bugfixes
+    - Few new things added
+    - Must work with old saves
+    - Localization
+  X:Hotfix/Jenkins version
+    - self explanatory
+    - Letters a-z-A-Z
+  A.B.C: Must be numbers, can go over 10, reset if the higher critera changes. IE 1.1 -> 2.0...
+  X:Must be a letter lowercase first a-Z Letters removed if C changes.
+All must abide by this versioning system, Not all criteria needs to be met, but if criteria met that is what changes.
+
+Github Repo Labeling
+  [Game] Modname
+  example [Minecraft]HxCCore
+  
+Github Repo Structure
+  ([name] < means folder)
+  
+  [libs] (if any)
+  [src] (if contains code changes)
+  setup/build batch files (if needed)
+  .gitignore (always)
+  LICENSE (always)(preferably MIT ATM, may change, if you created repo of own volition you may pick the License)
+  README.md (must contain title + main author + major features)
+  TODO (if any)
+Must have this structure minimum nothing less unless valid reasoning.
+
+Coding Style Preferences
+  int a, b, c;
+  String d = "bob says hi",
+         e = "john is dead";
+  public....() {
+    code...;
+  }
+  
+  NOT
+  
+  int a;
+  int b;
+  int c;
+  String d = "bob says hi";
+  String e = "john is dead";
+  public....()
+  {
+    code...;
+  }
+  
+I highly prefer the top style over the above style, and will adamantly change it to my liking.
