@@ -27,8 +27,8 @@ Versioning
 All must abide by this versioning system, Not all criteria needs to be met, but if criteria met that is what changes.
 
 Github Repo Labeling
-  [Game] Modname
-  example [Minecraft]HxCCore
+  Game_Modname
+  example Minecraft_HxCCore or MC_HxCCore
   
 Github Repo Structure
   ([name] < means folder)
