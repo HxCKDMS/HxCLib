@@ -47,3 +47,39 @@ HxCLinkPads {
 	Optional use of RF and/or ender pearls for fuel.
 	Fix cross-dim for mobs/items.	
 }
+
+HxCTiC {
+	Detect Available Ingots
+	Make aforementioned ingots smeltable in smeltery and recastable
+	Detect blocking recipes for ignots and make castable
+	Detect related dusts and make smeltable
+	Create TiC Materials based on Ore Hardness/Height/Rarity
+	Colour based on ingot Colour
+	Reference HxCLib for Material Traits FIRST before pseudo-random guessing on hardness
+	Reference material traits in order of config -> github -> detection.
+	update config defaults from github
+}
+
+HxCTFC {
+	Detect mod ores and create TFC Ores from that
+	Reference Github for rates/depths/rock types
+	Replace mod recipes by default
+}
+
+HxCEconomy {
+	Completely configurable
+	money per hour
+	sell from hand or sell chest at home
+	buy to inventory or delivery chest at home
+	travelling merchant NPC? buys from player chests and sells to player chests (labelled chests)
+	server side system
+	client side renderer (optional)
+}
+
+HxCFactions {
+	Faction system based on Bukkit plugins
+	Favourable tweaks
+	protection system even working with mods
+	monetary system when Economy installed
+	Jobs creatable in areas pay customizable
+}
