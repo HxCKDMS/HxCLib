@@ -63,3 +63,6 @@ Coding Style Preferences
   }
   
 I highly prefer the top style over the above style, and will adamantly change it to my liking.
+
+if code is longer than width of screen break to next line on the following character sets
+    (, || && &| &!) NOT (== <= > !=)
