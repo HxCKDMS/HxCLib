@@ -1,4 +1,4 @@
-HxCCore:1.7.10-1.9.9
+HxCCore:1.7.10-1.11.0
 HxCCore:1.8-1.7.0
 HxCEnchants:1.7.10-2.2.2
 HxCEnchants:1.8-2.0.6
