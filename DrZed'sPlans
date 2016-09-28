@@ -42,23 +42,26 @@ HxCBlocks {
 	Blacklist Reika pylons.
 }
 
-HxCLinkPads {
-	Add HxCWorldGen recipes.
-	Optional use of RF and/or ender pearls for fuel.
-	Fix cross-dim for mobs/items.	
-}
-
-HxCTiC {
-	Detect Available Ingots
-	Make aforementioned ingots smeltable in smeltery and recastable
-	Detect blocking recipes for ignots and make castable
-	Detect related dusts and make smeltable
-	Create TiC Materials based on Ore Hardness/Height/Rarity
-	Colour based on ingot Colour
-	Reference HxCLib for Material Traits FIRST before pseudo-random guessing on hardness
-	Reference material traits in order of config -> github -> detection.
-	update config defaults from github
-}
+HxCTiC
+ - Ore dictionary metal detection
+	- Hardness from ore ~= Material hardness
+	- Mining level from ore ~= mining level
+	- Color from ingot detection for material color
+	- Molten metal color RGB if possible? Or just closest material color/red
+	- Drawspeed for bow based on hardness
+	- Material Traits configurable + defaults from github
+ - Bowstring Materials
+	- More of them
+	- Rubber
+	- Sinew
+	- Hempstring (IE, etc..)
+	- Parachord (custom)
+	- Nylon (synthetic material HxCTech)
+	- Linen
+	- Leather
+	- Kevlar? (synthetic material HxCTech)
+	- Carbon Fibre (ic2)
+ - Completely Configurable
 
 HxCTFC {
 	Detect mod ores and create TFC Ores from that
