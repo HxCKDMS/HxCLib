@@ -11,4 +11,4 @@ HxCEnchants:1.10.2-2.3.3
 HxCShards:1.7.10-1.0.4
 HxCWorldGen:1.7.10-1.6.0
 HxCBlocks:1.7.10-1.6.2
-HxCLinkPads:1.7.10-1.4.0
+HxCLinkPads:1.7.10-1.5.1
