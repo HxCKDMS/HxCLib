@@ -1,5 +1,5 @@
 HxCCore:1.7.10-1.13.2
-HxCCore:1.10.2-2.0.0
+hxccore:1.10.2-2.0.0
 HxCEnchants:1.7.10-2.3.4
 HxCEnchants:1.10.2-3.0.0
 HxCShards:1.7.10-1.0.5
