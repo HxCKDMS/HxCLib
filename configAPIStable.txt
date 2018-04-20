@@ -1,1 +1,1 @@
-https://github.com/HxCKDMS/ConfigurationAPI/releases/download/v1.3/ConfigurationAPI-1.3.jar
+https://github.com/HxCKDMS/ConfigurationAPI/releases/download/v1.4/ConfigurationAPI-1.4.jar
